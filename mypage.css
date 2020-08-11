@@ -1,0 +1,15 @@
+body {
+    padding: 25px;
+    margin: 0px 25px 0px 25px;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+}
+
+h1 {
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+    color: cornflowerblue;
+}
